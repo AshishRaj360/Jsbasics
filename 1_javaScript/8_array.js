@@ -1,4 +1,5 @@
-  //array 
+/*
+//array 
   const myAry = [9,0,1,2,4,5,6,"ashish",true] 
  // console.log(myAry[0]);
   
@@ -6,10 +7,11 @@
  const myArry2 =new Array(1,2,3,4,5)
  //console.log(myArry2[4]);
 
+ */
  //-----------Array Method----------------------
 
  
-/*
+
 
  myAry.push(7)
  console.log(myAry);    //output - [ 9, 0, 1, 2, 4, 5, 6, 'ashish', true, 7 ]
@@ -22,7 +24,7 @@
   const sarry = myAry.join ()
   console.log(sarry); // make array into string 
 
-  */
+  
 
 //-------------------Slice/Splice--------------------  
  
@@ -41,3 +43,5 @@ console.log(myn2);
 
   
   
+
+//-----------------------------------------------------------------------------------------------------------------
